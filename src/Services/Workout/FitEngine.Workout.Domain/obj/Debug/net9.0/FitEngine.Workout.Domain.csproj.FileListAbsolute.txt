@@ -1,0 +1,11 @@
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\bin\Debug\net9.0\FitEngine.Workout.Domain.deps.json
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\bin\Debug\net9.0\FitEngine.Workout.Domain.dll
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\bin\Debug\net9.0\FitEngine.Workout.Domain.pdb
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\obj\Debug\net9.0\FitEngine.Workout.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\obj\Debug\net9.0\FitEngine.Workout.Domain.AssemblyInfoInputs.cache
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\obj\Debug\net9.0\FitEngine.Workout.Domain.AssemblyInfo.cs
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\obj\Debug\net9.0\FitEngine.Workout.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\obj\Debug\net9.0\FitEngine.Workout.Domain.dll
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\obj\Debug\net9.0\refint\FitEngine.Workout.Domain.dll
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\obj\Debug\net9.0\FitEngine.Workout.Domain.pdb
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Domain\obj\Debug\net9.0\ref\FitEngine.Workout.Domain.dll

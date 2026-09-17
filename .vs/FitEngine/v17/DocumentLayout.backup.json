@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\workouts\\queries\\getworkoutbyuserid\\getworkoutbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\workouts\\queries\\getworkoutbyuserid\\getworkoutbyuseridqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\workouts\\queries\\getworkoutbyid\\getworkoutbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\workouts\\queries\\getworkoutbyid\\getworkoutbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\workouts\\queries\\getworkoutbyid\\getworkoutbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\workouts\\queries\\getworkoutbyid\\getworkoutbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\workouts\\dtos\\workoutexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\workouts\\dtos\\workoutexercisedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\workouts\\dtos\\workoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\workouts\\dtos\\workoutdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\common\\interfaces\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\common\\interfaces\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.api\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.api\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\workouts\\commands\\createworkout\\createworkoutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\workouts\\commands\\createworkout\\createworkoutcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AED125-B981-4452-A198-2CF1557E2C17}|src\\Services\\Workout\\FitEngine.Workout.Domain\\FitEngine.Workout.Domain.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.domain\\entities\\workoutexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AED125-B981-4452-A198-2CF1557E2C17}|src\\Services\\Workout\\FitEngine.Workout.Domain\\FitEngine.Workout.Domain.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.domain\\entities\\workoutexercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AED125-B981-4452-A198-2CF1557E2C17}|src\\Services\\Workout\\FitEngine.Workout.Domain\\FitEngine.Workout.Domain.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.domain\\enums\\musclegroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AED125-B981-4452-A198-2CF1557E2C17}|src\\Services\\Workout\\FitEngine.Workout.Domain\\FitEngine.Workout.Domain.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.domain\\enums\\musclegroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868F1F9-D650-45D7-B6AF-F6B19A22A4A6}|src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.infrastructure\\persistence\\workoutdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4868F1F9-D650-45D7-B6AF-F6B19A22A4A6}|src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.infrastructure\\persistence\\workoutdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AED125-B981-4452-A198-2CF1557E2C17}|src\\Services\\Workout\\FitEngine.Workout.Domain\\FitEngine.Workout.Domain.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.domain\\entities\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AED125-B981-4452-A198-2CF1557E2C17}|src\\Services\\Workout\\FitEngine.Workout.Domain\\FitEngine.Workout.Domain.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.domain\\entities\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868F1F9-D650-45D7-B6AF-F6B19A22A4A6}|src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.infrastructure\\repositories\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4868F1F9-D650-45D7-B6AF-F6B19A22A4A6}|src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.infrastructure\\repositories\\workoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\workouts\\dtos\\workoutsetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\workouts\\dtos\\workoutsetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\workouts\\commands\\createworkout\\createworkoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\workouts\\commands\\createworkout\\createworkoutcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AED125-B981-4452-A198-2CF1557E2C17}|src\\Services\\Workout\\FitEngine.Workout.Domain\\FitEngine.Workout.Domain.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.domain\\entities\\workoutset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2AED125-B981-4452-A198-2CF1557E2C17}|src\\Services\\Workout\\FitEngine.Workout.Domain\\FitEngine.Workout.Domain.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.domain\\entities\\workoutset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\workouts\\queries\\getworkoutbyuserid\\getworkoutbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\workouts\\queries\\getworkoutbyuserid\\getworkoutbyuseridquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.api\\fitengine.workout.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A747171-BACC-425E-9C58-A712DF664C8E}|src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.api\\fitengine.workout.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4868F1F9-D650-45D7-B6AF-F6B19A22A4A6}|src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.infrastructure\\fitengine.workout.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4868F1F9-D650-45D7-B6AF-F6B19A22A4A6}|src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.infrastructure\\fitengine.workout.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|c:\\users\\sebip\\softwaredeveloperroadmap\\fitengine\\src\\services\\workout\\fitengine.workout.application\\fitengine.workout.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{532FDA49-0EC2-4F72-9F37-8D4ABC0BC1C6}|src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj|solutionrelative:src\\services\\workout\\fitengine.workout.application\\fitengine.workout.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WorkoutExerciseDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutExerciseDto.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutExerciseDto.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutExerciseDto.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutExerciseDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T08:12:34.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IWorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Common\\Interfaces\\IWorkoutRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Common\\Interfaces\\IWorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Common\\Interfaces\\IWorkoutRepository.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Common\\Interfaces\\IWorkoutRepository.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T17:17:45.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkoutDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutDto.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutDto.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutDto.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T08:12:51.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetWorkoutByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutById\\GetWorkoutByIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutById\\GetWorkoutByIdQuery.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutById\\GetWorkoutByIdQuery.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutById\\GetWorkoutByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T13:35:24.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetWorkoutByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutById\\GetWorkoutByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutById\\GetWorkoutByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutById\\GetWorkoutByIdQueryHandler.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutById\\GetWorkoutByIdQueryHandler.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T13:38:11.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetWorkoutByUserIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutByUserId\\GetWorkoutByUserIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutByUserId\\GetWorkoutByUserIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutByUserId\\GetWorkoutByUserIdQueryHandler.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutByUserId\\GetWorkoutByUserIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T14:24:11.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkoutController.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\Controllers\\WorkoutController.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.API\\Controllers\\WorkoutController.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\Controllers\\WorkoutController.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.API\\Controllers\\WorkoutController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T11:46:22.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.API\\Program.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\Program.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T16:27:26.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateWorkoutCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Commands\\CreateWorkout\\CreateWorkoutCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Commands\\CreateWorkout\\CreateWorkoutCommandHandler.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Commands\\CreateWorkout\\CreateWorkoutCommandHandler.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Commands\\CreateWorkout\\CreateWorkoutCommandHandler.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAvwBwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T08:15:15.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkoutExercise.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\WorkoutExercise.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\WorkoutExercise.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\WorkoutExercise.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\WorkoutExercise.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAnwBEAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:44:18.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MuscleGroups.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Domain\\Enums\\MuscleGroups.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Domain\\Enums\\MuscleGroups.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Domain\\Enums\\MuscleGroups.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Domain\\Enums\\MuscleGroups.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:37:43.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WorkoutDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\Persistence\\WorkoutDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\Persistence\\WorkoutDbContext.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\Persistence\\WorkoutDbContext.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\Persistence\\WorkoutDbContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T17:24:27.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\Workout.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\Workout.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\Workout.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\Workout.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:44:03.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\Repositories\\WorkoutRepository.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\Repositories\\WorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\Repositories\\WorkoutRepository.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\Repositories\\WorkoutRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T17:07:41.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkoutSetDto.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutSetDto.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutSetDto.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutSetDto.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\DTOs\\WorkoutSetDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T08:12:10.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateWorkoutCommand.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Commands\\CreateWorkout\\CreateWorkoutCommand.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Commands\\CreateWorkout\\CreateWorkoutCommand.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Commands\\CreateWorkout\\CreateWorkoutCommand.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Commands\\CreateWorkout\\CreateWorkoutCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-25T08:14:52.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WorkoutSet.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\WorkoutSet.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\WorkoutSet.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\WorkoutSet.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Domain\\Entities\\WorkoutSet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T09:40:38.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetWorkoutByUserIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutByUserId\\GetWorkoutByUserIdQuery.cs",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutByUserId\\GetWorkoutByUserIdQuery.cs",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutByUserId\\GetWorkoutByUserIdQuery.cs",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\Workouts\\Queries\\GetWorkoutByUserId\\GetWorkoutByUserIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T13:56:27.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-26T12:05:55.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\appsettings.json",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-21T16:44:25.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FitEngine.Workout.API.csproj",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.API\\FitEngine.Workout.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-21T17:48:41.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FitEngine.Workout.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Infrastructure\\FitEngine.Workout.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-18T17:23:19.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FitEngine.Workout.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj",
+              "RelativeDocumentMoniker": "src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj",
+              "ToolTip": "C:\\Users\\sebip\\SoftwareDeveloperRoadMap\\FitEngine\\src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj",
+              "RelativeToolTip": "src\\Services\\Workout\\FitEngine.Workout.Application\\FitEngine.Workout.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-24T17:15:44.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

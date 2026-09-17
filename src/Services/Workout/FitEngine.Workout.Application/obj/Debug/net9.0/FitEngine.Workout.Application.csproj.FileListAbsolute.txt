@@ -1,0 +1,15 @@
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\bin\Debug\net9.0\FitEngine.Workout.Application.deps.json
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\bin\Debug\net9.0\FitEngine.Workout.Application.dll
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\bin\Debug\net9.0\FitEngine.Workout.Application.pdb
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\bin\Debug\net9.0\FitEngine.Workout.Domain.dll
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\bin\Debug\net9.0\FitEngine.Workout.Domain.pdb
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\FitEngine.Workout.Application.csproj.AssemblyReference.cache
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\FitEngine.Workout.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\FitEngine.Workout.Application.AssemblyInfoInputs.cache
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\FitEngine.Workout.Application.AssemblyInfo.cs
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\FitEngine.Workout.Application.csproj.CoreCompileInputs.cache
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\FitEngin.8B209C43.Up2Date
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\FitEngine.Workout.Application.dll
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\refint\FitEngine.Workout.Application.dll
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\FitEngine.Workout.Application.pdb
+C:\Users\sebip\SoftwareDeveloperRoadMap\FitEngine\src\Services\Workout\FitEngine.Workout.Application\obj\Debug\net9.0\ref\FitEngine.Workout.Application.dll
